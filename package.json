@@ -1,10 +1,10 @@
 {
-    "name": "ayu-one-dark-pro",
+    "name": "ayu-one-dark-pro_ds",
     "displayName": "Ayu One Dark Pro",
     "description": "Ayu Dark/Mirage with One Dark Pro",
     "version": "1.4.1",
     "icon": "images/icon.png",
-    "publisher": "smeagolem",
+    "publisher": "derek-shnosh",
     "repository": {
         "type": "git",
         "url": "https://github.com/smeagolem/ayu-one-dark-pro"
@@ -18,24 +18,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Ayu One Dark Pro | Mirage",
-                "uiTheme": "vs-dark",
-                "path": "./themes/ayu-one-dark-pro-mirage-color-theme.json"
-            },
-            {
-                "label": "Ayu One Dark Pro | Mirage Bordered",
+                "label": "(DS) Ayu One Dark Pro | Mirage Bordered",
                 "uiTheme": "vs-dark",
                 "path": "./themes/ayu-one-dark-pro-mirage-bordered-color-theme.json"
-            },
-            {
-                "label": "Ayu One Dark Pro | Dark",
-                "uiTheme": "vs-dark",
-                "path": "./themes/ayu-one-dark-pro-dark-color-theme.json"
-            },
-            {
-                "label": "Ayu One Dark Pro | Dark Bordered",
-                "uiTheme": "vs-dark",
-                "path": "./themes/ayu-one-dark-pro-dark-bordered-color-theme.json"
             }
         ]
     },
