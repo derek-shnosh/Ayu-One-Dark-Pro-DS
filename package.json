@@ -7,7 +7,7 @@
     "publisher": "derek-shnosh",
     "repository": {
         "type": "git",
-        "url": "https://github.com/smeagolem/ayu-one-dark-pro"
+        "url": "https://github.com/derek-shnosh/Ayu-One-Dark-Pro_DS"
     },
     "engines": {
         "vscode": "^1.30.0"
@@ -20,7 +20,7 @@
             {
                 "label": "(DS) Ayu One Dark Pro | Mirage Bordered",
                 "uiTheme": "vs-dark",
-                "path": "./themes/ayu-one-dark-pro-mirage-bordered-color-theme.json"
+                "path": "./themes/ayu-one-dark-pro-mirage-bordered-color-theme_ds.json"
             }
         ]
     },
